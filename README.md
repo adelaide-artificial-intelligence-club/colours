@@ -1,5 +1,5 @@
 # Colours
-A presentation and demonstration of genetic algorithms.
+A demonstration of genetic algorithms.
 
 ## Requirements
  - [deap](https://github.com/DEAP/deap "DEAP on Github")
